@@ -1,0 +1,26 @@
+.my_backcolor{
+    background-color: #f8f8f8;
+}
+
+.my_font{
+    font-size: 1.05rem;
+    color: #2a333c;
+}
+.my_font:hover{
+    text-decoration: none;
+}
+.my_size{
+    overflow-x: hidden;
+    color: #5e7387;
+    font-size: 12px;
+}
+.my_fontsize{
+    font-size: 10px;
+    color: #5e7387;
+}
+.list-group-item{
+    border: 0;
+}
+.media{
+    border-bottom: 1px solid #ddd;
+}

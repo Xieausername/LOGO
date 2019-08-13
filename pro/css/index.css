@@ -1,0 +1,142 @@
+
+.my_bg_color{
+    background-color: #f8f8f8;
+}
+
+.my_text_center{
+    text-align: center;
+}
+.my_text_center_cl{
+    text-align: center;
+    color:#666;
+}
+
+.my_text{
+    color:#666;
+    font-size: 1.2rem;
+}
+.my_text:hover{
+    color:#62a8ea;
+    text-decoration: none;
+}
+
+.my_bg_cl{
+    background-color: #fff;
+}
+
+.my_text_center_size{
+    color: #666;
+    font-size: 1rem;
+}
+
+.nav-link{
+    color: #5e7387;
+}
+.nav-pills .nav-link{
+    border-radius: 0;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link{
+    background-color: #62a8ea;
+}
+
+.style_size{
+    font-size: 1.286rem;
+    color: #2a333c;
+    text-align: center;
+}
+.style_size:hover{
+    text-decoration: none;
+}
+.style_int{
+    font-size: 1.286rem;
+    color: #f96868;
+    text-align: center;
+}
+
+.list-group-item{
+    border: 0;
+    background-color: #f8f8f8;
+}
+
+.my_font{
+    font-size: 1.05rem;
+    color: #2a333c;
+}
+.my_font:hover{
+    text-decoration: none;
+}
+.my_size{
+    overflow-x: hidden;
+    color: #5e7387;
+    font-size: 12px;
+}
+.my_fontsize{
+    font-size: 10px;
+    color: #5e7387;
+}
+
+.btn-primary {
+    color: #2a333c;
+    background-color: #fff;
+    border-color: #2a333c;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #62a8ea;
+    border-color: #62a8ea;
+}
+.my_a{
+    text-align: center;
+}
+
+/* ÂÖ²¥Í¼ */
+.carousel-indicators li{
+    width:10px;height:10px;
+    background-color: #666;
+    border-radius: 50%;
+    margin: 10px;
+}
+.carousel-indicators li.active{
+    background-color:#000;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width:4%;height:20%;
+    top:40%;background-color: rgba(0,0,0,0.3);
+    border-radius: 4px;
+}
+
+.logo-carousel{
+    position: relative;
+}
+.logo-carousel-h{
+    position: fixed;
+    z-index: 100;
+    font-size: 18px;
+    left: 75px;
+    top: 150px;
+}
+.logo-carousel-p{
+    position: absolute;
+    z-index: 100;
+    font-size: 24px;
+    left: 75px;
+    bottom: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

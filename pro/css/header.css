@@ -1,0 +1,43 @@
+body{
+    background-color:#fff;
+    margin:0;padding:0;
+}
+
+.btn-dark {
+    color: #000;
+    background-color: #fff;
+    border-color: #000;
+}
+
+.btn-dark:hover {
+    color: #62a8ea;
+    background-color: #23272b;
+    border-color: #1d2124;
+}
+
+.my_text{
+    color:#000;
+}
+.my_text:hover{
+    color:#62a8ea;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 992px){
+    .my_img{
+        padding-left: 10rem;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .my_img{
+        margin: 0,auto;
+    }
+}
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+.my_daohang{
+    margin: 0 auto;
+}
+
+.my_text{
+    color: #2a333c;
+    font-size: 1.1rem;
+}
+.my_text:focus{
+    color:#62a8ea;
+    text-decoration: none;
+}
+.my_text:hover{
+    color:#62a8ea;
+    text-decoration: none;
+}
+
+.my_mianbao{
+    margin: 0 auto;
+    padding: 10px 0 0 0;
+}
+
+.breadcrumb{
+    background-color: #fff;
+}
+
+.my_text_p{
+    text-align: center;
+    font-size: 0.9rem;
+}
+.my_text_ui{
+    font-size: 0.9rem;
+}
+
+.my_text_int{
+    color: #76838f;
+    font-size: 14px;
+}
+.list-group-item{
+    border: 0;
+}
+.media{
+    border-bottom: 1px solid #ddd;
+}
+
+.btn-primary {
+    color: #62a8ea;
+    background-color: #fff;
+    border-color: #007bff;
+    border-radius: 0;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #62a8ea;
+    border-color: #62a8ea;
+}
+
+.form-control:focus {
+    color: #76838f;
+    background-color: #fff;
+    border-color: #62a8ea;
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem rgba(0, 123, 255, 0.25);
+}
+

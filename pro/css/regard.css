@@ -1,0 +1,27 @@
+.my_size{
+    font-size: 14px;
+    color: #2a333c;
+}
+.my_fontsize{
+    font-size: 10px;
+    color: #5e7387;
+}
+
+.btn-primary {
+    color: #62a8ea;
+    background-color: #fff;
+    border-color: #62a8ea;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #62a8ea;
+    border-color: #62a8ea;
+}
+
+.my_ul{
+    list-style: decimal-leading-zero;
+}
+
+.my_center{
+    text-align: center;
+}

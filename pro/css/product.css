@@ -1,0 +1,18 @@
+.my_backcolor{
+    /*background-color: #f8f8f8;*/
+}
+
+.style_size{
+    font-size: 1.286rem;
+    color: #2a333c;
+    text-align: center;
+}
+.style_size:hover{
+    text-decoration: none;
+}
+.style_int{
+    font-size: 1.286rem;
+    color: #f96868;
+    text-align: center;
+}
+

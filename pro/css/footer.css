@@ -1,0 +1,51 @@
+body{
+    background-color:#fff;
+    margin:0;padding:0;
+}
+
+.my_mianbao{
+    margin: 0 auto;
+    padding: 10px 0 0 0;
+}
+
+.breadcrumb{
+    background-color: #fff;
+}
+
+.my_text{
+    color:#666;
+    font-size: 0.9rem;
+}
+.my_text:hover{
+    color:#62a8ea;
+    text-decoration: none;
+}
+
+.my_uli{
+    margin: 0 auto;
+}
+
+.my_text_center{
+    text-align: center;
+}
+
+.my_font_size{
+    font-size: 30px;
+    color: #0069d9;
+}
+.my_font_size:hover{
+    color:#62a8ea;
+    text-decoration: none;
+}
+
+.my_text_p{
+    font-size: 0.9rem;
+}
+
+.text-xs-center{
+    text-align: center;
+}
+
+.my_text_a:hover{
+    text-decoration: none;
+}

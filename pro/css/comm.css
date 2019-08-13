@@ -1,0 +1,30 @@
+.my_header,.my_footer{width:100%;}
+/*手写媒体查询，控制iframe的高度*/
+@media screen and (min-width: 992px){
+    .my_header{height:4rem;}
+    .my_footer{height:28rem;}
+}
+@media screen and (min-width: 593px) and (max-width: 991px){
+    .my_header{height:4rem;}
+    .my_footer{height:36rem;}
+}
+@media screen and (max-width: 592px){
+    .my_header{height:10rem;}
+    .my_pt{padding-top: 10px!important;}
+    .my_btn{margin-top: 0!important;text-align: center;}
+    .my_footer{height:38rem;}
+}
+
+.border-bottom{
+    border-width:2px !important;
+}
+
+.my_style{
+    height: 120px;
+    background-color: #62a8ea;
+}
+.my_style_center{
+    text-align: center;
+    line-height: 120px;
+    font-size: 35px;
+}
