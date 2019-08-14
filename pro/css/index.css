@@ -111,19 +111,57 @@
 .logo-carousel{
     position: relative;
 }
+
 .logo-carousel-h{
     position: fixed;
     z-index: 100;
-    font-size: 18px;
-    left: 75px;
-    top: 150px;
+    left: 10%;
+    animation: mypngone 2s forwards;
 }
+@keyframes mypngone {
+    0%{top:10%}
+    100%{top:35%}
+}
+@media screen and (min-width: 992px){
+    .logo-carousel-h{
+        font-size: 30px;
+    }
+}
+@media screen and (min-width: 593px) and (max-width: 991px){
+    .logo-carousel-h{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 592px){
+    .logo-carousel-h{
+        font-size: 10px;
+    }
+}
+
 .logo-carousel-p{
     position: absolute;
     z-index: 100;
-    font-size: 24px;
-    left: 75px;
-    bottom: 150px;
+    left: 10%;
+    animation: mypngtwo 2s forwards;
+}
+@keyframes mypngtwo {
+    0%{bottom:10%}
+    100%{bottom:35%}
+}
+@media screen and (min-width: 992px){
+    .logo-carousel-p{
+        font-size: 36px;
+    }
+}
+@media screen and (min-width: 593px) and (max-width: 991px){
+    .logo-carousel-p{
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 592px){
+    .logo-carousel-p{
+        font-size: 14px;
+    }
 }
 
 
